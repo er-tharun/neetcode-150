@@ -1,0 +1,23 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+# Visual Studio files
+vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+# Rider IDE files
+idea/
+# Logs and temporary files
+*.log
+*.tmp
+# NuGet Packages
+*.nupkg
+**/packages/
+# Test Results
+[Tt]est[Rr]esult*/
