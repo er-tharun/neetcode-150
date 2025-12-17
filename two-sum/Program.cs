@@ -4,6 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
+        //https://leetcode.com/problems/two-sum/
         var result = TwoSum(new int[]{2,7,11,15}, 9);
         Console.WriteLine($"[ {result[0]} , {result[1]} ]");
     }
