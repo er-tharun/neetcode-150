@@ -8,8 +8,5 @@ class Program
         Console.WriteLine(ContainsDuplicate(new int[] {1,2,3,1}));
     }
 
-    public static bool ContainsDuplicate(int[] nums) 
-    {
-        return new HashSet<int>(nums).Count < nums.Length;
-    }
+    public static bool ContainsDuplicate(int[] nums) => new HashSet<int>(nums).Count < nums.Length;
 }
