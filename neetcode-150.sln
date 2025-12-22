@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3sum", "Two Pointers\3sum\3
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "two-sum-ii-input-array-is-sorted", "Two Pointers\two-sum-ii-input-array-is-sorted\two-sum-ii-input-array-is-sorted.csproj", "{715826F4-EA38-46FC-A669-65FBE8F71E6C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "valid-palindrome", "Two Pointers\valid-palindrome\valid-palindrome.csproj", "{49C2C54E-6316-4574-92AA-675A1CCEDAA4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,18 @@ Global
 		{715826F4-EA38-46FC-A669-65FBE8F71E6C}.Release|x64.Build.0 = Release|Any CPU
 		{715826F4-EA38-46FC-A669-65FBE8F71E6C}.Release|x86.ActiveCfg = Release|Any CPU
 		{715826F4-EA38-46FC-A669-65FBE8F71E6C}.Release|x86.Build.0 = Release|Any CPU
+		{49C2C54E-6316-4574-92AA-675A1CCEDAA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49C2C54E-6316-4574-92AA-675A1CCEDAA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49C2C54E-6316-4574-92AA-675A1CCEDAA4}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{49C2C54E-6316-4574-92AA-675A1CCEDAA4}.Debug|x64.Build.0 = Debug|Any CPU
+		{49C2C54E-6316-4574-92AA-675A1CCEDAA4}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{49C2C54E-6316-4574-92AA-675A1CCEDAA4}.Debug|x86.Build.0 = Debug|Any CPU
+		{49C2C54E-6316-4574-92AA-675A1CCEDAA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49C2C54E-6316-4574-92AA-675A1CCEDAA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49C2C54E-6316-4574-92AA-675A1CCEDAA4}.Release|x64.ActiveCfg = Release|Any CPU
+		{49C2C54E-6316-4574-92AA-675A1CCEDAA4}.Release|x64.Build.0 = Release|Any CPU
+		{49C2C54E-6316-4574-92AA-675A1CCEDAA4}.Release|x86.ActiveCfg = Release|Any CPU
+		{49C2C54E-6316-4574-92AA-675A1CCEDAA4}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -142,5 +156,6 @@ Global
 		{3B35C900-18C8-42DF-AE6E-8AE60924DF88} = {304EA55B-E0ED-744F-403F-F060C9752FBF}
 		{C0E50200-10E3-4002-AC69-B77FC3CE98B7} = {96AF2565-44E1-78C2-B29D-5629D89543BB}
 		{715826F4-EA38-46FC-A669-65FBE8F71E6C} = {96AF2565-44E1-78C2-B29D-5629D89543BB}
+		{49C2C54E-6316-4574-92AA-675A1CCEDAA4} = {96AF2565-44E1-78C2-B29D-5629D89543BB}
 	EndGlobalSection
 EndGlobal
