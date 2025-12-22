@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 18
-VisualStudioVersion = 18.0.11222.15 d18.0
+VisualStudioVersion = 18.0.11222.15
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "contains-duplicate", "contains-duplicate\contains-duplicate.csproj", "{98473DD2-F760-42AA-A048-EEA7E152ECBA}"
 EndProject
@@ -20,6 +20,8 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Two Pointers", "Two Pointers", "{96AF2565-44E1-78C2-B29D-5629D89543BB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3sum", "Two Pointers\3sum\3sum.csproj", "{C0E50200-10E3-4002-AC69-B77FC3CE98B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "two-sum-ii-input-array-is-sorted", "Two Pointers\two-sum-ii-input-array-is-sorted\two-sum-ii-input-array-is-sorted.csproj", "{715826F4-EA38-46FC-A669-65FBE8F71E6C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -115,6 +117,18 @@ Global
 		{C0E50200-10E3-4002-AC69-B77FC3CE98B7}.Release|x64.Build.0 = Release|Any CPU
 		{C0E50200-10E3-4002-AC69-B77FC3CE98B7}.Release|x86.ActiveCfg = Release|Any CPU
 		{C0E50200-10E3-4002-AC69-B77FC3CE98B7}.Release|x86.Build.0 = Release|Any CPU
+		{715826F4-EA38-46FC-A669-65FBE8F71E6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{715826F4-EA38-46FC-A669-65FBE8F71E6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{715826F4-EA38-46FC-A669-65FBE8F71E6C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{715826F4-EA38-46FC-A669-65FBE8F71E6C}.Debug|x64.Build.0 = Debug|Any CPU
+		{715826F4-EA38-46FC-A669-65FBE8F71E6C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{715826F4-EA38-46FC-A669-65FBE8F71E6C}.Debug|x86.Build.0 = Debug|Any CPU
+		{715826F4-EA38-46FC-A669-65FBE8F71E6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{715826F4-EA38-46FC-A669-65FBE8F71E6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{715826F4-EA38-46FC-A669-65FBE8F71E6C}.Release|x64.ActiveCfg = Release|Any CPU
+		{715826F4-EA38-46FC-A669-65FBE8F71E6C}.Release|x64.Build.0 = Release|Any CPU
+		{715826F4-EA38-46FC-A669-65FBE8F71E6C}.Release|x86.ActiveCfg = Release|Any CPU
+		{715826F4-EA38-46FC-A669-65FBE8F71E6C}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -127,5 +141,6 @@ Global
 		{EC6FF6A7-4750-4444-94A8-268E9B8DA983} = {304EA55B-E0ED-744F-403F-F060C9752FBF}
 		{3B35C900-18C8-42DF-AE6E-8AE60924DF88} = {304EA55B-E0ED-744F-403F-F060C9752FBF}
 		{C0E50200-10E3-4002-AC69-B77FC3CE98B7} = {96AF2565-44E1-78C2-B29D-5629D89543BB}
+		{715826F4-EA38-46FC-A669-65FBE8F71E6C} = {96AF2565-44E1-78C2-B29D-5629D89543BB}
 	EndGlobalSection
 EndGlobal
