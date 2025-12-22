@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 18
 VisualStudioVersion = 18.0.11222.15
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "contains-duplicate", "contains-duplicate\contains-duplicate.csproj", "{98473DD2-F760-42AA-A048-EEA7E152ECBA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "contains-duplicate", "Arrays & Hashing\contains-duplicate\contains-duplicate.csproj", "{98473DD2-F760-42AA-A048-EEA7E152ECBA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "valid-anagram", "valid-anagram\valid-anagram.csproj", "{E95B273C-2ADE-420D-857B-789CDDE38BE8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "valid-anagram", "Arrays & Hashing\valid-anagram\valid-anagram.csproj", "{E95B273C-2ADE-420D-857B-789CDDE38BE8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "two-sum", "two-sum\two-sum.csproj", "{DE4E0D19-C6F1-4232-90C4-21CDFD49C2E2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "two-sum", "Arrays & Hashing\two-sum\two-sum.csproj", "{DE4E0D19-C6F1-4232-90C4-21CDFD49C2E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "group-anagrams", "group-anagrams\group-anagrams.csproj", "{0AF84FF7-160C-4CBE-BE3E-57C5C6FA8856}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "group-anagrams", "Arrays & Hashing\group-anagrams\group-anagrams.csproj", "{0AF84FF7-160C-4CBE-BE3E-57C5C6FA8856}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "top-k-frequent-elements", "top-k-frequent-elements\top-k-frequent-elements.csproj", "{EC6FF6A7-4750-4444-94A8-268E9B8DA983}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "top-k-frequent-elements", "Arrays & Hashing\top-k-frequent-elements\top-k-frequent-elements.csproj", "{EC6FF6A7-4750-4444-94A8-268E9B8DA983}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Arrays & Hashing", "Arrays & Hashing", "{304EA55B-E0ED-744F-403F-F060C9752FBF}"
 EndProject
